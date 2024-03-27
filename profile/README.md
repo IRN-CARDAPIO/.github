@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-<!--
+This is the GitHub organization of the  CARDAPIO project.
 
-**Here are some ideas to get you started:**
+CARDAPIO is a International Research Network funded by IRD. It gathered together a consortium of atmospheric scientists from tropical regions in three continents, to study regional rainfall variations in Brazil, West Africa and South-East Asia.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* This is where project participants can contribute the [CARDAPIO webpage (to come soon)]().
+
+* This is where project participants can find some useful technical ressources about how to share and make a  documentation of their codes and softwares [(to come soon)]().
+
+
+
+
