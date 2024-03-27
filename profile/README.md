@@ -12,6 +12,8 @@ CARDAPIO is a International Research Network funded by IRD. It gathers together 
 
 * The DREAM repository is where you'll find the main [links to the DREAM model](https://github.com/IRN-CARDAPIO/DREAM).
 
+* You have access to the project discussion forum by clicking here: https://github.com/orgs/IRN-CARDAPIO/discussions
+
 
 
 
