@@ -3,7 +3,7 @@
 CARDAPIO is a International Research Network funded by IRD. It gathers together a consortium of atmospheric scientists from tropical regions in three continents, to study regional rainfall variations in Brazil, West Africa and South-East Asia.
 
 ### To visitors:
-* Check out our [project webpage ! (to come soon)](https://irn-cardapio.github.io/).
+* Check out [our new project webpage !](https://irn-cardapio.github.io/).
 
 ### To project participants:
 * This [repo](https://github.com/IRN-CARDAPIO/irn-cardapio.github.io) contains thez sources of the CARDAPIO webpage (TO COME SOON). This is where  you can edit and contribute the webpage's content. 
