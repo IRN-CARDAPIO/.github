@@ -14,6 +14,8 @@ CARDAPIO is a International Research Network funded by IRD. It gathers together 
 
 * You have access to the project discussion forum by clicking here: https://github.com/orgs/IRN-CARDAPIO/discussions
 
+* [Materials of the summer 2025 DREAM workshop is here](https://github.com/dream-gcm/workshop-notebooks-2025). Reference to cite: Leroux, S. & Hall, N. (2025). Tutorial notebooks to get started with the DREAM model (v1.1). Zenodo. https://doi.org/10.5281/zenodo.16079415  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16079415.svg)](https://doi.org/10.5281/zenodo.16079415)
+
 
 
 
